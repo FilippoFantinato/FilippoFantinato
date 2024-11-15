@@ -9,7 +9,7 @@
       align="center" 
       src="https://github-readme-stats.vercel.app/api?username=FilippoFantinato&theme=dark&show_icons=true&rank_icon=github&card_width=1024" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       height=200
       align="center" 
