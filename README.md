@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi, I'm Filippo <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
 
-[![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoFantinato&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1024">
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FilippoFantinato&theme=dark&show_icons=true&rank_icon=github&card_width=500" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoFantinato&layout=compact&theme=dark&langs_count=10&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&card_width=500" />
+  </a>
+</p>
 
 <!--
 **FilippoFantinato/FilippoFantinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
