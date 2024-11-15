@@ -4,10 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FilippoFantinato&theme=dark&show_icons=true&rank_icon=github&card_width=500" />
+    <img 
+      height=200
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=FilippoFantinato&theme=dark&show_icons=true&rank_icon=github&card_width=1024" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoFantinato&layout=compact&theme=dark&langs_count=10&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&card_width=500" />
+    <img 
+      height=200
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoFantinato&layout=compact&theme=dark&langs_count=10&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&card_width=1090" />
   </a>
 </p>
 
